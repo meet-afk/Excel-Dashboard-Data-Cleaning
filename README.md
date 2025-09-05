@@ -98,7 +98,6 @@ This project transforms a raw, messy dataset of bike sales into a powerful busin
 
 Have feedback or want to connect? Feel free to reach out!
 
--   **My Portfolio:** [your-portfolio-link.com](https://your-portfolio-link.com)
--   **Contact Me:** [youremail@example.com](mailto:youremail@example.com)
+-   **My Portfolio:** [your-portfolio-link.com](https://meet-afk.github.io/)
 
-Check out my other projects! ➜ **[My GitHub Profile](https://github.com/your-username)**
+Check out my other projects! ➜ **[My GitHub Profile](https://github.com/meet-afk)**
