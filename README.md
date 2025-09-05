@@ -12,7 +12,7 @@ An end-to-end project demonstrating data cleaning, analysis, and interactive das
 
 It's highly recommended to use a GIF to showcase the interactivity of your dashboard.
 
-![Dashboard GIF](https://i.imgur.com/your-dashboard-animation.gif)
+![Dashboard](/images/excel_dashboard.png)
 
 ---
 
